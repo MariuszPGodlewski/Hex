@@ -1,0 +1,4 @@
+﻿  Hex-2.cpp
+C:\Users\mgodl\OneDrive\Pulpit\Code\Alghoritms\Hex-2\Hex-2\Hex-2.cpp(294,42): warning C4305: "argument": obcięcie z "int" do "char"
+C:\Users\mgodl\OneDrive\Pulpit\Code\Alghoritms\Hex-2\Hex-2\Hex-2.cpp(294,42): warning C4309: "argument": obcięcie stałej wartości
+  Hex-2.vcxproj -> C:\Users\mgodl\OneDrive\Pulpit\Code\Alghoritms\Hex-2\x64\Debug\Hex-2.exe
